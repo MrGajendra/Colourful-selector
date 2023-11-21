@@ -1,0 +1,19 @@
+p::selection{
+    color: yellow;
+    background-color: black;
+    font-weight: 500;  
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    background-color: rgb(192, 234, 255);
+}
+
+h1{
+    color: orange;
+
+}
+h3{
+    color: olivedrab;
+}
